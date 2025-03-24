@@ -114,4 +114,8 @@ Cada usuario tiene la siguiente estructura:
 
 ## Capturas de Pantalla
 
-(El usuario añadirá las capturas de pantalla manualmente)
+![home](screenshots/home.png)
+
+![detalles](screenshots/userdetails.png)
+
+![barra de busqueda](screenshots/searchbar.png)
