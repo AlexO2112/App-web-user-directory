@@ -110,7 +110,6 @@ Cada usuario tiene la siguiente estructura:
 - **Axios** - Cliente HTTP para consumo de APIs
 - **Tailwind CSS** - Framework CSS para estilos
 - **PostCSS** - Procesamiento de estilos CSS
-- **Vite** - Bundler y servidor de desarrollo
 
 
 ## Capturas de Pantalla

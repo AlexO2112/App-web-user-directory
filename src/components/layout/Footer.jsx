@@ -11,7 +11,7 @@ const Footer = () => {
           </div>
           <div>
             <p className="text-sm">
-              Desarrollado con React, Context API, React Router, Axios y Tailwind CSS
+              Desarrollado con React y Tailwind CSS
             </p>
           </div>
         </div>
