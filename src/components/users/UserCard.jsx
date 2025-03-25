@@ -1,9 +1,6 @@
 /**
  * Componente de tarjeta de usuario
- * 
  * Este componente muestra la información básica de un usuario en formato de tarjeta.
- * Incluye el nombre, email y empresa del usuario, así como un enlace para ver más detalles.
- * 
  * @component
  */
 import { Link } from 'react-router-dom';

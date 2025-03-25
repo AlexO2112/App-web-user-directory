@@ -1,10 +1,7 @@
 /**
  * Componente de detalle de usuario
- * 
- * Este componente muestra información detallada de un usuario específico.
- * Obtiene los datos del usuario mediante su ID desde la API.
+ * Este componente muestra informacion detallada de un usuario especifico.
  * Maneja diferentes estados: carga, error y visualización de datos.
- * 
  * @component
  */
 import { useState, useEffect } from 'react';
@@ -14,7 +11,6 @@ import Loader from '../common/Loader';
 import ErrorMessage from '../common/ErrorMessage';
 
 /**
- * Componente funcional que renderiza los detalles completos de un usuario
  * @returns {JSX.Element} Elemento JSX que contiene los detalles del usuario o mensajes de estado
  */
 const UserDetail = () => {

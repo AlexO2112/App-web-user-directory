@@ -3,7 +3,6 @@
  * 
  * Este componente muestra un indicador de carga animado.
  * Se utiliza mientras se esperan respuestas de la API o durante procesos asíncronos.
- * 
  * @component
  */
 
